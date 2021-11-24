@@ -1,7 +1,30 @@
+* {
+    border: 2px solid red;
+    margin: 5px;
+    padding: 5px;
+}
+
 h1 {
+
+    background-color: whitesmoke;
     color: darkblue;
+    text-align: center;
+    padding: px;
+    border: 5px solid darkblue;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 
 h2 {
     color: darkred;
+    text-align: center;
+}
+
+ul {
+    padding-inline: 180px;
+}
+
+li {
+    margin: 100px;
+    display: inline;
 }
