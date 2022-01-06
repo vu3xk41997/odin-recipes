@@ -1,6 +1,6 @@
 # odin-recipes
 My favorite recipes for presenting my work with html & css session on The Odin Project.
-
+[Live Demo](https://vu3xk41997.github.io/odin-recipes/)
 ## html elements:
 1. structure of html
 2. h1, h2
