@@ -10,4 +10,6 @@ My favorite recipes for presenting my work with html & css session on The Odin P
 
 ## css elements:
 1. id, class
-2. color, img size
+2. color, width, height
+3. padding, margin, border
+4. display
